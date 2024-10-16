@@ -1,6 +1,6 @@
-a = 10
-t = type(a) # class <int>
-print(t)
+# a = 10
+# t = type(a) # class <int>
+# print(t)
 
 # b = 29.8
 # n = type(b) # class <flo>
@@ -10,7 +10,8 @@ print(t)
 # m = type(c) # class <str>
 # print(m)
 
-# d = "True"
-# o = type(d) # class <boolean>
-# print(o)
+d = "False"
+o = type(d) # class <boolean>
+print(o)
+
 
